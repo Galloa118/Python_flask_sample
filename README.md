@@ -1,6 +1,5 @@
 # Flask Login Demo
 
-Demo: <http://itppylogindemo.herokuapp.com/>
 
 ## Flask Login
 
